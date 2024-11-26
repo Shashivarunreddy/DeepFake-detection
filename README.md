@@ -50,7 +50,7 @@ The code in this repository enables training and testing of the GenConViT model 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/erprogs/GenConViT
+git clone https://github.com/Shashivarunreddy/GenConViT
 ```
 
 2. Install the required dependencies:
