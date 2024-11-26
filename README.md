@@ -1,6 +1,8 @@
 # Deepfake Video Detection Using Generative Convolutional Vision Transformer
 Deressa Wodajo, Solomon Atnafu, Zahid Akhtar
 
+## NOTE: It requires some decent Graphics Card to run it locally, Avoid if you dont have Graphics Card
+
 This repository contains the implementation code for **Deepfake Video Detection Using Generative Convolutional Vision Transformer (GenConViT)** paper. Find the full paper on arXiv [here](https://arxiv.org/abs/2307.07036).
 
 <br/><br/>
